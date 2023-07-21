@@ -13,4 +13,5 @@ export const DexType = {
   MantisSwap: 6,
   Gmx: 7,
   Clober: 8,
+  BalancerV2: 9,
 }
